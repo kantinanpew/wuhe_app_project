@@ -1,6 +1,7 @@
 # Tea Farm Management App
 
 🏆Got funding and Awards winner for "Meet Pacific 2024" event in Hualien, Taiwan.🏆
+
 A comprehensive solution for managing tea farms using modern web technologies and containerization.
 
 ## Features
