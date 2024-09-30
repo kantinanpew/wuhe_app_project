@@ -1,0 +1,22 @@
+{
+    "name": "tea-farm-app-server",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node run-app.js",
+        "client": "cd client && npm start",
+        "server": "cd server && npm start"
+    },
+    "dependencies": {
+        "@react-native-community/datetimepicker": "^8.2.0",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "firebase-admin": "^11.11.1",
+        "react-native-modal-datetime-picker": "^18.0.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
